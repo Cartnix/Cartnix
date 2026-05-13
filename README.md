@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&vCenter=true&width=600&height=45&lines=Hey%2C+I'm+Cartnix+%F0%9F%91%8B;Frontend+%26+Go+Developer;Tinkerer+at+Heart;Better+than+dreaming." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&vCenter=true&width=600&height=45&lines=Hey%2C+I'm+Cartnix+%F0%9F%91%8B;Frontend+%26+Go+Developer;Better+than+dreaming." alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Cartnix&color=58a6ff&style=flat-square&label=profile+views">
 
@@ -21,7 +21,7 @@ I thrive on building intuitive interfaces and diving deep into how things work u
 
 ### 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,go,html,css,docker,linux,git" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,go,html,css,docker,git" />
 
 ---
 
@@ -34,7 +34,7 @@ I thrive on building intuitive interfaces and diving deep into how things work u
 
 ---
 
-### 📩 Let's Connect
+### 📩 Contacts
 
 <a href="https://t.me/cartnix"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="mailto:cartnix21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
