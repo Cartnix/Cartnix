@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hello, I'm Cartnix! 👋
 
-<!--
-**Cartnix/Cartnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer living in the world of code. I love building intuitive user interfaces and digging deep into how things work under the hood.
 
-Here are some ideas to get you started:
+**About me:**
+* 🔭 Currently working on **YumeHub** (an anime catalog project).
+* 🌱 I'm deep-diving into **Frontend (React, TypeScript)** and starting to build backend services with **Go**.
+* ⚡ My motto: "Better than dreaming".
+* 🛠 My Tech Stack: JavaScript/TypeScript, React, Go, HTML/CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Let's connect!
+[Twitter/LinkedIn/Telegram link]
