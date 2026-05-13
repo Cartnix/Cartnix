@@ -25,15 +25,6 @@ I thrive on building intuitive interfaces and diving deep into how things work u
 
 ---
 
-### 📈 Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cartnix&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Cartnix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cartnix&theme=tokyo-night&hide_border=true" width="98%" />
-
----
-
 ### 📩 Contacts
 
 <a href="https://t.me/cartnix"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
