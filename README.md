@@ -2,19 +2,11 @@
   <img src="MainBanner.png" alt="Banner">
 </p>
 
-<p align="center">
-  <img src="MainBanner.png" alt="Banner">
-</p>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Hey%2C+I'm+Cartnix+%F0%9F%91%8B;Frontend+%26+Go+Developer;Building+YumeHub+right+now;Better+than+dreaming." alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=Cartnix&color=58a6ff&style=flat-square&label=profile+views" />
-
-<br><br>
-
-<em><code>&gt; Transient code, eternal pursuit.</code></em>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000000&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Transient+code%2C+eternal+pursuit." alt="Quote" />
+</p>
 
 </div>
 
