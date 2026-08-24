@@ -5,7 +5,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000000&color=E3B341&center=true&vCenter=true&width=750&height=70&lines=Transient+code%2C+eternal+pursuit." alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000000&color=8A63D2&center=true&vCenter=true&width=750&height=70&lines=Transient+code%2C+eternal+pursuit." alt="Quote" />
 </p>
 
 </div>
