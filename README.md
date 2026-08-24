@@ -46,6 +46,24 @@ current_focus:
 
 <br>
 
+### 📊 Activity & Stats
+
+<table>
+  <tr>
+    <td width="100%" valign="top" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cartnix/Cartnix/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cartnix/Cartnix/output/github-contribution-grid-snake.svg" />
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cartnix/Cartnix/output/github-contribution-grid-snake.svg" width="100%" />
+      </picture>
+      <br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cartnix&theme=react-dark&hide_border=true&color=E3B341&line=E3B341&point=38bdf8" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ### 📩 Let's Connect
 
 <div align="center">
@@ -63,18 +81,3 @@ current_focus:
 <sub>⚡ Thanks for stopping by — feel free to explore my repos!</sub>
 </div>
 
-### 📊 Activity & Stats
-
-<table>
-  <tr>
-    <td width="100%" valign="top" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cartnix/Cartnix/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cartnix/Cartnix/output/github-contribution-grid-snake.svg" />
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cartnix/Cartnix/output/github-contribution-grid-snake.svg" width="100%" />
-      </picture>
-      <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cartnix&theme=react-dark&hide_border=true&color=E3B341&line=E3B341&point=FF5722" width="100%" />
-    </td>
-  </tr>
-</table>
