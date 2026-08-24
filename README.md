@@ -64,15 +64,10 @@ current_focus:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cartnix&theme=transparent" width="100%" />
+    <td width="100%" valign="top" align="center">
+      <img src="https://ghchart.rshah.org/38bdf8/Cartnix" alt="Cartnix's GitHub Contribution Graph" width="100%" />
       <br><br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cartnix&theme=react-dark&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff" width="100%" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>📈 Profile Insights</h3>
-      <br>
-      <sub>Full activity breakdown above — check my pinned repos for more.</sub>
     </td>
   </tr>
 </table>
