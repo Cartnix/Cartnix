@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="photo_2026-08-24_22-13-09.jpg" width="500" alt="Banner">
+</p>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Hey%2C+I'm+Cartnix+%F0%9F%91%8B;Frontend+%26+Go+Developer;Building+YumeHub+right+now;Better+than+dreaming." alt="Typing SVG" />
