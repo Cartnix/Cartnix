@@ -5,7 +5,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000000&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Transient+code%2C+eternal+pursuit." alt="Quote" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=80&section=header&text=Transient%20code,%20eternal%20pursuit.&fontSize=32&fontColor=58A6FF&fontAlignY=50" alt="Quote" />
 </p>
 
 </div>
