@@ -65,7 +65,7 @@ current_focus:
 <table>
   <tr>
     <td width="100%" valign="top" align="center">
-      <img src="https://ghchart.rshah.org/38bdf8/Cartnix" alt="Cartnix's GitHub Contribution Graph" width="100%" />
+      <img src="https://grass-graph.moshimo.workers.dev/github?username=Cartnix" width="100%" />
       <br><br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cartnix&theme=react-dark&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff" width="100%" />
     </td>
