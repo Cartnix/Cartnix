@@ -79,3 +79,5 @@ current_focus:
 <div align="center">
 <sub>⚡ Thanks for stopping by — feel free to explore my repos!</sub>
 </div>
+
+![Aiden's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cartnix&theme=react-dark&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff)
