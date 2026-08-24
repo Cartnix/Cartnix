@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Новый проект.jpg" alt="Banner">
+  <img src="MainBanner.png" alt="Banner">
 </p>
 
 <div align="center">
