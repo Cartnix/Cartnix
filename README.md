@@ -74,7 +74,7 @@ current_focus:
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cartnix/Cartnix/output/github-contribution-grid-snake.svg" width="100%" />
       </picture>
       <br><br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cartnix&theme=react-dark&hide_border=true&color=e3B341&line=38bdf8&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cartnix&theme=react-dark&hide_border=true&color=E3B341&line=E3B341&point=FF5722" width="100%" />
     </td>
   </tr>
 </table>
