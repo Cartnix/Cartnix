@@ -3,11 +3,8 @@
 </p>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Hey%2C+I'm+Cartnix+%F0%9F%91%8B;Frontend+%26+Go+Developer;Building+YumeHub+right+now;Better+than+dreaming." alt="Typing SVG" />
-
 <img src="https://komarev.com/ghpvc/?username=Cartnix&color=58a6ff&style=flat-square&label=profile+views" />
-
 </div>
 
 <br>
@@ -41,9 +38,7 @@ current_focus:
 ### 🛠 Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=js,ts,react,go,html,css,docker,git,vscode,figma" />
-
 </div>
 
 <br>
@@ -51,14 +46,12 @@ current_focus:
 ### 📩 Let's Connect
 
 <div align="center">
-
 <a href="https://t.me/cartnix">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 <a href="mailto:cartnix21@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 </div>
 
 <br>
@@ -67,4 +60,19 @@ current_focus:
 <sub>⚡ Thanks for stopping by — feel free to explore my repos!</sub>
 </div>
 
-![Aiden's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cartnix&theme=react-dark&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff)
+### 📊 Activity & Stats
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cartnix&theme=transparent" width="100%" />
+      <br><br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cartnix&theme=react-dark&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff" width="100%" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📈 Profile Insights</h3>
+      <br>
+      <sub>Full activity breakdown above — check my pinned repos for more.</sub>
+    </td>
+  </tr>
+</table>
