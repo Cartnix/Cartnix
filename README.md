@@ -49,7 +49,7 @@ Always learning. Always building. Always curious.
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cartnix/Cartnix/output/github-contribution-grid-snake.svg" width="100%" />
       </picture>
       <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Cartnix&show_icons=true&theme=react-dark&hide_border=true&count_private=true" width="100%" />    </td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cartnix&layout=compact&theme=react-dark&hide_border=true&langs_count=7" width="100%" />   </td>
   </tr>
 </table>
 
