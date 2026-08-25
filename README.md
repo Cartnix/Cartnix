@@ -17,25 +17,6 @@
 I'm a developer who doesn't just write code — I tinker with it.
 I thrive on building intuitive interfaces and diving deep into how things work under the hood.
 
-> *I prefer breaking code to understand the mechanics over just following tutorials.*
-
-```yaml
-current_focus:
-  building: "YumeHub — anime catalog with a custom BFF architecture (React + Go)"
-  learning: "clean architecture patterns and API design"
-  stack: [React, TypeScript, Go, Docker]
-  fun_fact: "coffee-to-commit ratio is dangerously high"
-```
-
-<br>
-
-### 🚀 Currently
-
-- 🔭 **YumeHub** — anime catalog with a custom BFF architecture (React + Go)
-- 🌱 **Deep Dive** — mastering React/TypeScript, crafting backend services in Go
-- 🧩 **Exploring** — clean architecture patterns and API design
-- 👯 **Open to** — collaborating on interesting frontend/backend projects
-
 <br>
 
 ### 🛠 Tech Stack
