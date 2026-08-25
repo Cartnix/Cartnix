@@ -60,6 +60,6 @@ Always learning. Always building. Always curious.
 ### 📩 Let's Connect
 
 <div align="center">
-  <a href="https://t.me/cartnix">Telegram</a> &bull; <a href="mailto:cartnix21@gmail.com">Email</a>
+  <a href="https://t.me/cartnix">🛜 Telegram</a> &nbsp;&nbsp;&nbsp; 
+  <a href="mailto:cartnix21@gmail.com">📧 Email</a>
 </div>
-
