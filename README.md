@@ -14,8 +14,11 @@
 
 ### 💻 About Me
 
-I'm a developer who doesn't just write code — I tinker with it.
-I thrive on building intuitive interfaces and diving deep into how things work under the hood.
+I'm a developer who enjoys turning ideas into working products — and then taking them apart to understand how they work.
+
+I build intuitive interfaces, care about clean architecture, and enjoy diving beneath the abstractions to understand what's happening under the hood.
+
+Always learning. Always building. Always curious.
 
 <br>
 
