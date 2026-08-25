@@ -50,7 +50,7 @@ Always learning. Always building. Always curious.
       </picture>
       <br>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cartnix&layout=compact&theme=react-dark&hide_border=true&langs_count=7" width="100%">
+      <img src="https://github-profile-trophy.vercel.app/?username=Cartnix&theme=onedark&no-frame=true&margin-w=5&margin-h=5" width="100%" />
     </td>
   </tr>
 </table>
