@@ -60,6 +60,29 @@ Always learning. Always building. Always curious.
 ### 📩 Let's Connect
 
 <div align="center">
-  <a href="https://t.me/cartnix">🛜 Telegram</a> &nbsp;&nbsp;&nbsp; 
-  <a href="mailto:cartnix21@gmail.com">📧 Email</a>
+
+<a href="https://t.me/cartnix">
+
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+
+</a>
+
+<a href="mailto:cartnix21@gmail.com">
+
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+</a>
+
+</div>
+
+
+
+<br>
+
+
+
+<div align="center">
+
+<sub>⚡ Thanks for stopping by — feel free to explore my repos!</sub>
+
 </div>
